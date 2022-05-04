@@ -20,7 +20,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 500px;
-    background-image: url('./images/soup.jpg');
+    background-image: url('../images/soup.jpg');
     background-size: cover;
     color:white;
     font-size: 80px;
